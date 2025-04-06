@@ -1,0 +1,27 @@
+[
+  {
+    "base_url": "https://practice.expandtesting.com/login",
+    "username": "practice",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "base_url": "https://practice.expandtesting.com/login",
+    "username": "practice",
+    "password": "Pavithra"
+  },
+  {
+    "base_url": "https://practice.expandtesting.com/login",
+    "username": "Pavithra",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "base_url": "https://practice.expandtesting.com/login",
+    "username": "Pavithra",
+    "password": "Pavan"
+  },
+  {
+    "base_url": "https://practice.expandtesting.com/login",
+    "username": "",
+    "password": ""
+  }
+]
